@@ -88,32 +88,6 @@ The Chiron's top speed is electronically limited to 420 km/h (261 mph), or 375�
 
 
 
-<div style={{display:"flex"}}>
-  <div style={{width:"30%", height:"100vh"}}>
-         <a href="">
-          <img  width={"200px"} height={"100px"}  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bugatti_Chiron_1.jpg/1200px-Bugatti_Chiron_1.jpg"  />
-        </a>
-  </div>
-
-  <div style={{width:"70%", height:"100vh"}}>
-  <div style={{ gridTemplateColumns:"repeat(3,1fr)"}}>
-      {
-                /*  This maps each array item to a div adds
-                the style declared above and return it */
-    
-                <p className="read-the-docs">
-                <h4>The main carry over component from the Veyron is the 7,993 cc (8.0 L; 487.8 cu in) quad-turbocharged W16 engine, though it is heavily updated. The engine in the Chiron has a peak power output of 1,103 kW (1,479 hp; 1,500 PS) at 6,700 rpm and 1,600 N⋅m (1,180 lb⋅ft) of torque starting from 2,000 to 6,000 rpm. The engine in the most powerful variant of its predecessor, the Veyron Super Sport generates 221 kW (296 hp; 300 PS) less than the new Chiron, while the engine in the original Veyron generates 367 kW (492 hp; 499 PS) less power.
-        
-        Like its predecessor, the Veyron, the Chiron utilises a carbon fibre body structure, independent suspension and a Haldex All-wheel drive system. The carbon fibre body has a stiffness of 50,000 Nm per degree.</h4>
-              </p>
-            }
-            </div>
-  </div>
- 
-</div>
-
-
-
 
 
 
